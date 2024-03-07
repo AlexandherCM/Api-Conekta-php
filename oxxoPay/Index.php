@@ -1,6 +1,6 @@
 <?php
 require_once("lib/Conekta.php");
-\Conekta\Conekta::setApiKey("key_pq42sBrvzq9u0WnQ6aZvtrg");
+\Conekta\Conekta::setApiKey("aqui_va_tu_key");
 \Conekta\Conekta::setApiVersion("2.0.0");
 
 try {
